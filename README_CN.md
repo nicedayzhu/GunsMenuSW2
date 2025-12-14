@@ -8,6 +8,10 @@
 
 `GunsMenuSW2` 是 [CS2-Gunsmenu](https://github.com/asapverneri/CS2-Gunsmenu) 的 SwiftlyS2 移植版本。它允许玩家通过简单的菜单界面领取武器。
 
+<div align="center">
+  <img src="GunsMenu.png" alt="GunsMenu" />
+</div>
+
 ## ✨ 功能特性
 
 - **武器菜单**：提供主武器和副武器的选择菜单。

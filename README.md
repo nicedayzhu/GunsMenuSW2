@@ -8,6 +8,10 @@
 
 `GunsMenuSW2` is a port of [CS2-Gunsmenu](https://github.com/asapverneri/CS2-Gunsmenu) to SwiftlyS2. It allows players to claim weapons through a simple menu interface.
 
+<div align="center">
+  <img src="GunsMenu.png" alt="GunsMenu" />
+</div>
+
 ## ✨ Features
 
 - **Weapon Menu**: Provides selection menus for primary and secondary weapons.
