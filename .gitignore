@@ -1,0 +1,4 @@
+build/
+examples/
+obj/
+upload_to_server.sh
